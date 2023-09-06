@@ -1,0 +1,11 @@
+{
+  "name": "web-lib-anagmrebelo",
+  "version": "0.0.2",
+  "description": "Full Stack Web Development Library constructed during Academy training",
+  "main": "index.ts",
+  "author": "arebelo <anagmrebelo@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
